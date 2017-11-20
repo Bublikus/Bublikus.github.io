@@ -1,0 +1,1 @@
+{"version":3,"sources":["containers\\Dashboard\\style.sass"],"names":[],"mappings":"AAAA,WACE,UACA,cAAgB","file":"static/css/main.39f31170.css","sourcesContent":[".dashboard {\n  color: red;\n  font-size: 21px; }\n\n\n\n// WEBPACK FOOTER //\n// ./src/containers/Dashboard/style.sass"],"sourceRoot":""}
