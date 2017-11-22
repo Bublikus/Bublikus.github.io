@@ -2,7 +2,7 @@
   "name": "porfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://bublikus.github.io",
+  "homepage": "https://bublikus.github.io/portfolio",
   "dependencies": {
     "babel-eslint": "7.2.3",
     "dotenv-webpack": "^1.5.4",
